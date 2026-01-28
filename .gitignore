@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# ============================
+# ARCHIVOS DE ENTORNO (.env)
+# ============================
+.env
+.env.local
+.env.*.local
+
+src/main/resources/application.properties
